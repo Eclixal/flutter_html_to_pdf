@@ -1,3 +1,7 @@
+## 0.8.0
+
+* Update kotlin version and gradle version
+
 ## 0.7.0
 
 * Android: Support V2 embedding (Thanks [nikitadol](https://github.com/nikitadol))
